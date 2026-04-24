@@ -30,3 +30,6 @@ This project demonstrates data cleaning, analysis, and visualization skills requ
 * SQL queries
 * Python analysis
 * Deploy dashboard online
+  
+## 📌 Problem Statement
+Analyze customer order data to identify patterns in regions, categories, and customer behavior to support business decision-making.
